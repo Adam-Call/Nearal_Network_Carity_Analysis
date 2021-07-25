@@ -37,7 +37,7 @@ In this analysis we will be looking at funding provided by Alphabet Soup to more
 
     -Were you able to achieve the target model performance?
 
-        -unfortunatly the model was never able to meet the target of 75% accuracy
+        -unfortunately the model was never able to meet the target of 75% accuracy
 
     -What steps did you take to try and increase model performance?
 
@@ -47,6 +47,9 @@ In this analysis we will be looking at funding provided by Alphabet Soup to more
         - increased the number of neurons
         -increased the number of epochs ran in the model
         - decresed the number of epochs 
+        
+![network_summary](https://user-images.githubusercontent.com/80363261/126896101-80fe2f6a-6d60-4413-b631-0b8995c630f7.png)
+![model_accuracy](https://user-images.githubusercontent.com/80363261/126896106-5df31dc7-6093-40ac-9f23-a677c2c11936.png)
 
 ## Summary
 
